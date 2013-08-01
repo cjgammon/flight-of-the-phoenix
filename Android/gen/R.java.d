@@ -1,0 +1,23 @@
+/Users/gammon/Documents/Projects/00-repos/git.corp.adobe/demo-fastcanvas/fastcanvas/Android/gen/com/cjgammon/phoenix/R.java \
+ : /Users/gammon/Documents/Projects/00-repos/git.corp.adobe/demo-fastcanvas/fastcanvas/Android/res/drawable/icon.png \
+/Users/gammon/Documents/Projects/00-repos/git.corp.adobe/demo-fastcanvas/fastcanvas/Android/res/drawable-hdpi/ic_launcher.png \
+/Users/gammon/Documents/Projects/00-repos/git.corp.adobe/demo-fastcanvas/fastcanvas/Android/res/drawable-hdpi/icon.png \
+/Users/gammon/Documents/Projects/00-repos/git.corp.adobe/demo-fastcanvas/fastcanvas/Android/res/drawable-ldpi/ic_launcher.png \
+/Users/gammon/Documents/Projects/00-repos/git.corp.adobe/demo-fastcanvas/fastcanvas/Android/res/drawable-ldpi/icon.png \
+/Users/gammon/Documents/Projects/00-repos/git.corp.adobe/demo-fastcanvas/fastcanvas/Android/res/drawable-mdpi/ic_launcher.png \
+/Users/gammon/Documents/Projects/00-repos/git.corp.adobe/demo-fastcanvas/fastcanvas/Android/res/drawable-mdpi/icon.png \
+/Users/gammon/Documents/Projects/00-repos/git.corp.adobe/demo-fastcanvas/fastcanvas/Android/res/drawable-xhdpi/ic_launcher.png \
+/Users/gammon/Documents/Projects/00-repos/git.corp.adobe/demo-fastcanvas/fastcanvas/Android/res/drawable-xhdpi/icon.png \
+/Users/gammon/Documents/Projects/00-repos/git.corp.adobe/demo-fastcanvas/fastcanvas/Android/res/layout/main.xml \
+/Users/gammon/Documents/Projects/00-repos/git.corp.adobe/demo-fastcanvas/fastcanvas/Android/res/values/strings.xml \
+/Users/gammon/Documents/Projects/00-repos/git.corp.adobe/demo-fastcanvas/fastcanvas/Android/res/xml/config.xml \
+/Users/gammon/Documents/Projects/00-repos/git.corp.adobe/demo-fastcanvas/fastcanvas/Android/bin/res/drawable/icon.png \
+/Users/gammon/Documents/Projects/00-repos/git.corp.adobe/demo-fastcanvas/fastcanvas/Android/bin/res/drawable-hdpi/ic_launcher.png \
+/Users/gammon/Documents/Projects/00-repos/git.corp.adobe/demo-fastcanvas/fastcanvas/Android/bin/res/drawable-hdpi/icon.png \
+/Users/gammon/Documents/Projects/00-repos/git.corp.adobe/demo-fastcanvas/fastcanvas/Android/bin/res/drawable-ldpi/ic_launcher.png \
+/Users/gammon/Documents/Projects/00-repos/git.corp.adobe/demo-fastcanvas/fastcanvas/Android/bin/res/drawable-ldpi/icon.png \
+/Users/gammon/Documents/Projects/00-repos/git.corp.adobe/demo-fastcanvas/fastcanvas/Android/bin/res/drawable-mdpi/ic_launcher.png \
+/Users/gammon/Documents/Projects/00-repos/git.corp.adobe/demo-fastcanvas/fastcanvas/Android/bin/res/drawable-mdpi/icon.png \
+/Users/gammon/Documents/Projects/00-repos/git.corp.adobe/demo-fastcanvas/fastcanvas/Android/bin/res/drawable-xhdpi/ic_launcher.png \
+/Users/gammon/Documents/Projects/00-repos/git.corp.adobe/demo-fastcanvas/fastcanvas/Android/bin/res/drawable-xhdpi/icon.png \
+/Users/gammon/Documents/Projects/00-repos/git.corp.adobe/demo-fastcanvas/fastcanvas/Android/bin/AndroidManifest.xml \
